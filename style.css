@@ -121,7 +121,8 @@ html {
   
   .contact {
     position: relative;
-    top: 450px;
+    top: 490px;
+    left: 30px;
   }
   
   .contact ul li a {
@@ -143,7 +144,7 @@ html {
   
   /* box about me*/
   #box-about {
-    margin-top: 700px;
+    margin-top: 570px;
     padding-top: 30px;
     display: flex;
     justify-content: space-between;
@@ -165,7 +166,7 @@ html {
   }
   
   .split.right {
-    padding-top: 40px;
+    padding-top: 20px;
   }
   
   p i a {
